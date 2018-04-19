@@ -1,0 +1,13 @@
+hasJumped = false;
+vy = 0;
+vyMax = 10;
+jspd = -10;
+grav = 0.4;
+hasFlashed = false;
+flash = 0;
+xscale = 1;
+yscale = 1;
+t = irandom(360);
+inc = 16;
+amp = 0.1;
+alarm[0] = 1;
